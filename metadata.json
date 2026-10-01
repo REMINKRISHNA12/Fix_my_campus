@@ -1,0 +1,6 @@
+{
+  "name": "FixMyCampus Kerala",
+  "description": "Campus maintenance complaint lifecycle tracking and exclusive student perks for verified institutional emails in Kerala colleges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
